@@ -6,6 +6,9 @@ A Python script for extracting data from ArcGIS REST MapServer services into a F
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.3-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![Demo](images/demo.gif)
+*See ArcGIS rest service in action*
+
 ## Features
 
 - Interactive command-line interface
@@ -277,3 +280,4 @@ If you encounter any issues or have questions:
 ---
 
 **Note:** This script is designed for extracting data from publicly accessible ArcGIS REST services. For secured services, additional authentication mechanisms would need to be implemented.
+
